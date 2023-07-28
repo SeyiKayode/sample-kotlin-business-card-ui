@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+
+    <string name="business_owner">Oluwaseyi Kayode</string>
+    <string name="business_name">Android Developer</string>
+    <string name="phone_number">+2349077209533</string>
+    <string name="share_text">https://github.com/seyikayode</string>
+    <string name="email_text">oluwaseyikayode25@gmail.com</string>
+</resources>
